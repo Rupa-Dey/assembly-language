@@ -1,4 +1,4 @@
-
+;lower to upper character
 .MODEL SMALL
 .STACK 100H
 .DATA
