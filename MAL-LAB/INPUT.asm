@@ -4,7 +4,7 @@
 .DATA
  TEMP DB ?
  MAIN PROC
-    MOV AH,1
+    MOV AH,1 ;input
     INT 21H
     MOV TEMP,AL
     MOV AH,2
